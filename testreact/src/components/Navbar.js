@@ -11,12 +11,12 @@ function Navbar ()   {
 
             <ul className="hidden md:flex">
                 <li className="px-2">
-                    <a href="https://www.facebook.com/" target=" blank" >
+                    <a href="www.dota2.com" target=" blank" >
                         <img src={facebook} alt="facebook" width={80} />{""}
                     </a>
                 </li>
                 <li className="px-2">
-                <a href="https://www.instagram.com/?next=%2Fm_surapas_%2F" target=" blank" >
+                <a href="https://www.dota2.com" target=" blank" >
                         <img src={instagram} alt="instagram" width={80} />{""}
                     </a>
                 </li>
